@@ -1,0 +1,18 @@
+{
+  "name": "daat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "daat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node daat.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "icanhazdadjoke-client": "0.0.2",
+    "tronalddump-io": "^1.0.1"
+  }
+}
